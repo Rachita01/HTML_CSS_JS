@@ -1,0 +1,13 @@
+// console.log(b);
+// console.log(a);
+var c = "Rachita";
+console.log(c);
+var c = 100;
+console.log(c);
+let a=10;
+console.log(a);
+a = 189;
+console.log(a);
+const b = 1000;
+b = 10;
+console.log(b);
